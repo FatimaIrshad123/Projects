@@ -31,7 +31,7 @@ Code: <link>https://github.com/FatimaIrshad123/Book-Store-MERN-Project</link> </
 <h3>Mern Stack Course Selling App:</h3>
 Code: <link>https://github.com/FatimaIrshad123/Mern-Stack-Course-Selling-App</link> </br>
 
-<h3>Full Stack Nextjs project(need improvement):</h3>
+<h3>Full Stack Nextjs project(alot of things missing):</h3>
 Code: <link>https://github.com/FatimaIrshad123/Full-Stack-Nextjs-Project</link> </br>
 
 <h3>Full Stack Nextjs auth app(need improvement):</h3>
