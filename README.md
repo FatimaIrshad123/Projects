@@ -8,7 +8,7 @@ Preview: <link>https://leetcode-clone-omega.vercel.app/</link>
 Code: <link>https://github.com/FatimaIrshad123/Zoom-clone</link> </br>
 Preview: <link>https://zoom-clone-wheat-six.vercel.app/</link>
 
-<h3>Blogging App(Designing needed):</h3>
+<h3>Blogging App:</h3>
 Code: <link>https://github.com/FatimaIrshad123/Blogging-App</link> </br>
 Preview: <link>https://blogging-app-ochre-theta.vercel.app/</link>
 
