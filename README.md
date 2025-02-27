@@ -1,5 +1,9 @@
 # Projects
 
+<h3>Google Docs:</h3>
+Code: <link>https://github.com/FatimaIrshad123/Google-Docs</link> </br>
+Preview: <link>https://google-docs-flame.vercel.app/</link>
+
 <h3>LeetCode Clone:</h3>
 Code: <link>https://github.com/FatimaIrshad123/Leetcode-clone</link> </br>
 Preview: <link>https://leetcode-clone-omega.vercel.app/</link>
